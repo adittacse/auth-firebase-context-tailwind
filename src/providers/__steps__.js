@@ -10,3 +10,8 @@
  * 1. set AuthProviders in main.jsx
  * 2. inside provider access children props & then use
  */
+
+/**
+ * 1. break down the create user function
+ * auth provider will have auth & pass email and password from register
+ */
